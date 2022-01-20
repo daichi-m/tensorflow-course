@@ -131,3 +131,9 @@ dmypy.json
 
 # The env folder
 tf_env/
+
+
+# IDE files
+.ipynb_checkpoints
+.idea
+.virtual_documents
